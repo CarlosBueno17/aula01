@@ -1,0 +1,8 @@
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.exe.config
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.exe
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\bin\Debug\Aula01Textos.pdb
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.csproj.AssemblyReference.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.csproj.SuggestedBindingRedirects.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.csproj.CoreCompileInputs.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.exe
+D:\Users\carlos.ebsilva9\source\repos\Aula01Textos\Aula01Textos\obj\Debug\Aula01Textos.pdb
